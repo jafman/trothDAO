@@ -3,7 +3,7 @@ const hre = require("hardhat");
 async function main() {
  
   const TrothToken = await hre.ethers.getContractFactory("TrothToken");
-  const troth = await TrothToken.deploy(500000000, "Troth", 2, "TRO");
+  const troth = await TrothToken.deploy("TrothToken", "TRO", 18);
 
   await troth.deployed();
 
