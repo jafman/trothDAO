@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# TrothDAO
+## Improving loyalty programs in retail
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### Brief Project Synopsis
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+In today’s highly competitive and increasingly customer-centric marketplace, more companies are investing in creating or improving their loyalty programs. Blockchain can help in various ways.
+A fundamental driver of loyalty programs is the collection of customer data, which creates security risks. Loyalty programs can help protect customer data by exchanging digital tokens rather than data for rewards through smart contracts, which are programmed onto a blockchain and automatically triggered when certain conditions are fulfilled. Smart contracts help increase efficiency and security, cut costs through process automation, and reduce the need for centralized management of redemption processes.
+The companies that run loyalty programs, in turn, create their own digital rewards currency to simplify points accrual and redemption among partner companies. Increasing flexibility and reducing typical loyalty program restrictions in this way can drive greater customer engagement.
